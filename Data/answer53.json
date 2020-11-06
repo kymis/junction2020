@@ -1,0 +1,299 @@
+{
+    "haku_id": 53,
+    "organization_name": "Valtakunnallinen valmennus- ja liikuntakeskus oy",
+    "project_name": "Opiskelun ja huippu-urheilun yhdistämisen mahdollistaminen ammatillisessa peruskoulutuksessa",
+    "loppuselvitys_answers": {
+      "value": [
+        { "key": "language", "value": "fi", "fieldType": "radioButton" },
+        {
+          "key": "coordination-costs-row.amount",
+          "value": "16160",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "personnel-costs-row.description",
+          "value": "Valmentajien palkat liite 2",
+          "fieldType": "textField"
+        },
+        {
+          "key": "personnel-costs-row.amount",
+          "value": "52432",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "material-costs-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "material-costs-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "equipment-costs-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "service-purchase-costs-row.description",
+          "value": "Lihashuolto ja testaus",
+          "fieldType": "textField"
+        },
+        {
+          "key": "service-purchase-costs-row.amount",
+          "value": "2100",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "rent-costs-row.amount",
+          "value": "26810",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "steamship-costs-row.description",
+          "value": "Harjoitusmatkat Lahteen, judo",
+          "fieldType": "textField"
+        },
+        {
+          "key": "steamship-costs-row.amount",
+          "value": "540",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "other-costs-row.description",
+          "value": "Puhelin, atk",
+          "fieldType": "textField"
+        },
+        {
+          "key": "other-costs-row.amount",
+          "value": "1350",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "project-incomes-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "project-incomes-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "eu-programs-income-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "other-public-financing-income-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "private-financing-income-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "coordination-costs-row.description",
+          "value": "Janne Lahtisen valmennuksen koordinattorin työpanos",
+          "fieldType": "textField"
+        },
+        {
+          "key": "equipment-costs-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "rent-costs-row.description",
+          "value": "Tilavuokrat",
+          "fieldType": "textField"
+        },
+        {
+          "key": "eu-programs-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "other-public-financing-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "private-financing-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "project-outcomes",
+          "value": [
+            {
+              "key": "project-outcomes-1",
+              "value": [
+                {
+                  "key": "project-outcomes.project-outcomes-1.outcome-type",
+                  "value": "raportti",
+                  "fieldType": "radioButton"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.description",
+                  "value": "Hanke mahdollisti liikuntaneuvojaksi valmistumisen ja huippu-urheilijaksi kasvamisen kaksi (ylioppilaat) ja kolme vuotta (peruskoulun käyneet) kestävien opintojen aikana. Ammattivalmennus kehitti nuorta urheilijaa kokonaisvaltaisesti kohti kansainvälistä tasoa. Urheiluvalmentautuminen tuki urheilijan yksilöllistä kasvua, yksilölliset erityistarpeet huomioiden. Erityistä huomiota kiinnitettiin opiskelun (mukaan lukien työssäoppiminen) ja urheilu-uran yhteensovittamiseen sekä kokonaiskuormituksen seurantaan.",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.address",
+                  "value": "-yhteisillä valtakunnallisilla urheiluoppilaitospäivillä\n-avointen ovien päivillä Pajulahdessa\n-valtakunnallisilla urheiluakatemiapäivillä\n-sosiaalisessa mediassa\n-Pajulahden asiakaslehdessä\n-omien sidosryhmien kautta (lajiliitot, seurat, Päijät-Hämeen Urheiluakatemia, muut oppilaitokset)\n",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.something",
+                  "value": "",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            },
+            {
+              "key": "project-outcomes-2",
+              "value": [
+                {
+                  "key": "project-outcomes.project-outcomes-2.description",
+                  "value": "Hankkeen avulla nuoret urheilijat valmistuivat määräajassa ja omasivat opiskelun jälkeen työn vaatimat taidot ja tiedot sekä sijoittuvat työelämään tavoitteellisina työntekijöinä.\nNuoret urheilijat saivat myös vahvan kosketuspinnan kansainväliseen huippu-urheiluun osallistumalla kv. tapahtumien suunnitteluun ja järjestelyihin. \n",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-2.outcome-type",
+                  "value": "raportti",
+                  "fieldType": "radioButton"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-2.address",
+                  "value": "-yhteisillä valtakunnallisilla urheiluoppilaitospäivillä\n-avointen ovien päivillä Pajulahdessa\n-valtakunnallisilla urheiluakatemiapäivillä\n-sosiaalisessa mediassa\n-Pajulahden asiakaslehdessä\n-omien sidosryhmien kautta (lajiliitot, seurat, Päijät-Hämeen Urheiluakatemia, muut oppilaitokset)\n",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-2.something",
+                  "value": "",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            }
+          ],
+          "fieldType": "growingFieldset"
+        },
+        {
+          "key": "radioButton-good-practices",
+          "value": "ei",
+          "fieldType": "radioButton"
+        },
+        {
+          "key": "textArea-0",
+          "value": "Hankkeen tavoitteena oli mahdollistaa liikuntaneuvojaksi valmistuminen ja huippu-urheilijaksi kasvaminen kaksi (ylioppilaat) ja kolme vuotta (peruskoulun käyneet) kestävien opintojen aikana. Urheilijaopiskelijoille tarjottiin osaavien ammattivalmentajien valmennusta 5-7 krt viikossa kahden tunnin ajan. \nUrheiluvalmentautumisen tavoitteena oli mahdollistaa opiskelevan urheilijan kehittyminen kansainvälisen huipputason aikuisurheilijaksi. Urheiluvalmentautuminen tuki urheilijan yksilöllistä kasvua, yksilölliset erityistarpeet huomioiden. Erityistä huomiota kiinnitettiin opiskelun (mukaan lukien työssäoppiminen) ja urheilu-uran yhteensovittamiseen sekä kokonaiskuormitukseen, mahdollisiin uupumisoireihin.\nTärkeä tavoite oli että, nuoret urheilijat valmistuvat määräajassa ja omaavat opiskelun jälkeen työn vaatimat taidot ja tiedot sekä sijoittuvat työelämään tavoitteellisina työntekijöinä.\n",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "textArea-2",
+          "value": "Uusi opetussuunnitelma mahdollisti urheilijoille joustavamman mallin harjoittelun ja opintojen yhdistämiseen. Vanhemmat opiskelijat pystyvät treenaamaan 5 aamuna viikossa niin halutessaan. Uusien opiskelijoiden kanssa aloitimme 3 aamun viikkotahtiin. \nAamuharjoitukset ovat arkipäivinä klo 10.00-12.00 ja tämän lisäksi illalla Liikuntakeskus Pajulahden tiloissa joko omatoiminen harjoitus tai valmentajien johdolla yhteisharjoitus (Tennis, Judo, yleisurheilu) Valmentajina toimivat Pajulahden valmennuskeskuksen päätoimiset ammattivalmentajat.\nPajulahden ammattivalmentajat vastasivat harjoituksista ja seurasivat säännöllisesti, viikottain urheilijoiden kehitystä omassa lajissaan. Tärkeää on, että valmentaja oppii tuntemaan urheilijat ja pystyy arvioimaan urheilijan rasitustasoa ja  tietävät heidän opintomenestyksensä. Yhteistyö valmennuksen ja opiskelun koordinaattorin Janne Lahtisen välillä ja valmentajien välillä on ollut hyvin tiivistä. \nOlemme käyttäneet myös urheilupsykologi Niko Nuutisen palveluita auttamaan uusien opiskelijoiden ryhmäytymisessä ja sopeutumaan sisäoppilaitosopiskeluun ja – valmentautumiseen.\n",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "project-description",
+          "value": [
+            {
+              "key": "project-description-1",
+              "value": [
+                {
+                  "key": "project-description.project-description-1.goal",
+                  "value": "Hankkeen tavoitteena oli mahdollistaa liikuntaneuvojaksi valmistuminen ja huippu-urheilijaksi kasvaminen kaksi (ylioppilaat) ja kolme vuotta (peruskoulun käyneet) kestävien opintojen aikana. Urheiluvalmentautumisen tavoitteena oli mahdollistaa opiskelevan urheilijan kehittyminen kansainvälisen huipputason aikuisurheilijaksi. Urheiluvalmentautuminen tuki urheilijan yksilöllistä kasvua, yksilölliset erityistarpeet huomioiden. Erityistä huomiota kiinnitettiin opiskelun (mukaan lukien työssäoppiminen) ja urheilu-uran yhteensovittamiseen sekä kokonaiskuormitukseen, mahdollisiin uupumisoireihin.",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-1.activity",
+                  "value": "Uuden opetussuunnitelman avulla nuorille urheilijoille räätälöitiin henkilökohtainen opetussuunnitelma, mikä mahdollisti joustavasti opiskelun ja vaativan valmentautumisen yhdistämisen. Koordinaattori Janne Lahtinen kävi jokaisen urheilijan kanssa suunnitelmat läpi ja seurasi opintojen ja harjoittelun edistymistä. \nAmmattivalmentajat vastasivat ja ohjasivat nuoren urheilijan kasvua kohti huippu-urheilijaksi kokonaisvaltaisen valmennuksen teemalla.\n",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-1.result",
+                  "value": "Nuoret urheilijat menestyivät sekä opinnoissa että omalla urheilijaurallaan. Opiskelumenestystä seurasimme jaksoittain ja jos vertaamme urheilijoiden keskiarvoja muihin opiskelijoihin heidän menestyksensä on ollut keskitasoa parempi.\nUrheilumenestys ohessa liitteenä 1., mikä kertoo hienoista saavutuksista mm. useita Suomen mestaruuksia ja mitaleja ja ennen kaikkea henkilökohtaisesta kehittymisestä.\n\n",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            },
+            {
+              "key": "project-description-2",
+              "value": [
+                {
+                  "key": "project-description.project-description-2.goal",
+                  "value": "Toinen tärkeä tavoite oli että, nuoret urheilijat valmistuivat määräajassa ja omasivat opiskelun jälkeen työn vaatimat taidot ja tiedot sekä sijoittuvat työelämään tavoitteellisina työntekijöinä. Nuoret urheilijat saivat myös vahvan kosketuspinnan kansainväliseen huippu-urheiluun osallistumalla kv. tapahtumien suunnitteluun ja järjestelyihin. ",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-2.activity",
+                  "value": "Urheilijat valmistuivat opintojen asetetun määräajan puitteissa, mikä osoittaa että opiskelu ja harjoittelu oli tasapainossa ja onnistui tavoitteiden mukaisesti. Nuoret saivat osallistua erilaisten tehtävien kautta useaan kansainväliseen tapahtumaan mm. PajulahtiGamesiin, Pyörätuolirugbyn EM-kisoihin jne.",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-2.result",
+                  "value": "Urheilijat valmistuivat määräajassa sataprosenttisesti. ",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            }
+          ],
+          "fieldType": "growingFieldset"
+        },
+        {
+          "key": "textArea-1",
+          "value": "Opinnoissa valmistuneet ja keskeyttäneet oli yksi mittari. Lisäksi vertailimme urheilijoiden menestymistä tavallisen opintolinjan nuoriin vuosittain. Valmistumisprosentti urheilijoilla oli 100%. \n\nUrheilussa edistymistä kontrolloitiin lajivalmentajien toimesta päivittäin ja jaksoittain ja koordinaattorin johdolla tehdyin valmentajapalaverein sekä urheilijoiden kehityskeskusteluin varmistettiin säännöllisesti kehityksen suuntaa ja ennen kaikkea tiedostettiin missä mennään. Pidimme kirjaa myös urheilijoiden kilpailumenestyksestä ja tiedotimme siitä yhteistyökumppaneille nostaen samalla heidän ja koko urheilun arvostusta.\n\nUrheilijat antoivat kahdesti vuodessa palautetta kirjallisessa muodossa asioista mitkä hyvin ja mitkä kaipaavat parantamista.\n",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "textArea-3",
+          "value": "Tiedotimme hankkeesta Pajulahden nettisivuilla ja facebookissa (twitter ja instagram).\nSisäinen tiedottaminen tapahtui pääasiassa; urheilijat, valmentajat ja lähimmät sidosryhmät. \nLajiliittoyhteistyön kautta pystyimme välittämään tietoa valtakunnallisesti.\nKaikki Pajulahdessa urheilevat nuoret kuuluivat Päijät-Hämeen Urheiluakatemiaan ja sieltä tieto välittyy esim. Huippu-Urheiluyksikön akatemiaohjelman kautta ympäri maata.\n\n",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "textArea-4",
+          "value": "Ilman OPH:n hanketukea olisi ollut mahdotonta toteuttaa 7 ammattivalmentajan korkeatasoista päivittäisvalmennusta 20 urheilijalle ja siten varmistaa todella laadukas valmennus.\n\n",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "repeating-attachment-other",
+          "value": [
+            {
+              "key": "repeating-attachment-otherliite-1",
+              "value": [
+                {
+                  "key": "repeating-attachment-other.repeating-attachment-otherliite-1.attachment",
+                  "value": "Pajulahden Urheileva nuoriso 2017.docx",
+                  "fieldType": "namedAttachment"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            },
+            {
+              "key": "repeating-attachment-otherliite-2",
+              "value": [
+                {
+                  "key": "repeating-attachment-other.repeating-attachment-otherliite-2.attachment",
+                  "value": "Budjettiraportti urheilijoiden ammperuskoulutuksen järjestämisestä 2017.xlsx",
+                  "fieldType": "namedAttachment"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            }
+          ],
+          "fieldType": "growingFieldset"
+        },
+        {
+          "key": "namedAttachment-0",
+          "value": "Pajulahti pääkirjanote 2017.pdf",
+          "fieldType": "namedAttachment"
+        }
+      ]
+    }
+  }
