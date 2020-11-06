@@ -1,242 +1,242 @@
 {
-      "haku_id": 160,
-      "organization_name": "Taiteilijat O ry",
-      "project_name": "Taidekummi-taidetyöpajat Helsingin kaupungin leikkipuistoissa osana Kotoklubi Kanelin toimintaa",
-      "loppuselvitys_answers": {
+  "haku_id": 160,
+  "organization_name": "Taiteilijat O ry",
+  "project_name": "Taidekummi-taidetyöpajat Helsingin kaupungin leikkipuistoissa osana Kotoklubi Kanelin toimintaa",
+  "loppuselvitys_answers": {
+    "value": [
+      { "key": "language", "value": "fi", "fieldType": "radioButton" },
+      {
+        "key": "personnel-costs-row.description",
+        "value": "hankkeen parissa työskenteli osa-aikaisesti 10 taidekummia, valokuvaaja ja 3 hanketyöryhmänjäsentä",
+        "fieldType": "textField"
+      },
+      {
+        "key": "personnel-costs-row.amount",
+        "value": "16731",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "material-costs-row.description",
+        "value": "työpajojen materiaalikulut",
+        "fieldType": "textField"
+      },
+      {
+        "key": "material-costs-row.amount",
+        "value": "1649",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "service-purchase-costs-row.description",
+        "value": "hankekirjanpito ja palkanlaskenta",
+        "fieldType": "textField"
+      },
+      {
+        "key": "service-purchase-costs-row.amount",
+        "value": "623",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "rent-costs-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "steamship-costs-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "steamship-costs-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "other-costs-row.description",
+        "value": "kokouspalkkiot ja kokoustarjoilut",
+        "fieldType": "textField"
+      },
+      {
+        "key": "other-costs-row.amount",
+        "value": "993",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "project-incomes-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "project-incomes-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "eu-programs-income-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "other-public-financing-income-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "private-financing-income-row.amount",
+        "value": "0",
+        "fieldType": "moneyField"
+      },
+      {
+        "key": "rent-costs-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "eu-programs-income-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "other-public-financing-income-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "private-financing-income-row.description",
+        "value": "",
+        "fieldType": "textField"
+      },
+      {
+        "key": "textArea-0",
+        "value": "Taiteilijat O ry on kehittänyt Taidekummi-hankkeen yhteistyössä Helsingin kaupungin kanssa. Yhteisinä tavoitteina on kotoutumisen tukeminen, suomen kielen oppiminen, kulttuuridialogi ja suhteiden solmiminen eri väestöryhmien kesken leikkipuistoympäristössä. Taidetyöpajat houkuttivat kantasuomalaisia lapsiperheitä mukaan Kotoklubi Kanelin toimintaan. Hanke lisäsi paikallisia osallistumismahdollisuuksia taiteen tekemiseen sellaisten henkilöiden osalta, joille kulttuuripalvelut ovat vieraampia.\n\nTaidetyöpajoja järjestettiin 12 Helsingin leikkipuistossa. Kotoklubi Kanelin toiminta laajeni hankkeen aikana yhteensä 19 leikkipuistoon. Toisissa puistoissa taidekummin vetämä taidetyöpaja toimi myös Kotoklubi Kanelia käynnistävänä vetotekijänä. Hanke kasvatti leikkipuistohenkilökunnan osaamista taidemenetelmien käytössä. Lisäksi taidekummit laativat selkeän ohjeen käyttämästään menetelmästä. Ohjeista koottiin yhtenäinen kokonaisuus kaikkien leikkipuistojen käyttöön.\n",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "project-outcomes",
         "value": [
-          { "key": "language", "value": "fi", "fieldType": "radioButton" },
           {
-            "key": "personnel-costs-row.description",
-            "value": "hankkeen parissa työskenteli osa-aikaisesti 10 taidekummia, valokuvaaja ja 3 hanketyöryhmänjäsentä",
-            "fieldType": "textField"
-          },
-          {
-            "key": "personnel-costs-row.amount",
-            "value": "16731",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "material-costs-row.description",
-            "value": "työpajojen materiaalikulut",
-            "fieldType": "textField"
-          },
-          {
-            "key": "material-costs-row.amount",
-            "value": "1649",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "service-purchase-costs-row.description",
-            "value": "hankekirjanpito ja palkanlaskenta",
-            "fieldType": "textField"
-          },
-          {
-            "key": "service-purchase-costs-row.amount",
-            "value": "623",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "rent-costs-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "steamship-costs-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "steamship-costs-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "other-costs-row.description",
-            "value": "kokouspalkkiot ja kokoustarjoilut",
-            "fieldType": "textField"
-          },
-          {
-            "key": "other-costs-row.amount",
-            "value": "993",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "project-incomes-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "project-incomes-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "eu-programs-income-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "other-public-financing-income-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "private-financing-income-row.amount",
-            "value": "0",
-            "fieldType": "moneyField"
-          },
-          {
-            "key": "rent-costs-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "eu-programs-income-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "other-public-financing-income-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "private-financing-income-row.description",
-            "value": "",
-            "fieldType": "textField"
-          },
-          {
-            "key": "textArea-0",
-            "value": "Taiteilijat O ry on kehittänyt Taidekummi-hankkeen yhteistyössä Helsingin kaupungin kanssa. Yhteisinä tavoitteina on kotoutumisen tukeminen, suomen kielen oppiminen, kulttuuridialogi ja suhteiden solmiminen eri väestöryhmien kesken leikkipuistoympäristössä. Taidetyöpajat houkuttivat kantasuomalaisia lapsiperheitä mukaan Kotoklubi Kanelin toimintaan. Hanke lisäsi paikallisia osallistumismahdollisuuksia taiteen tekemiseen sellaisten henkilöiden osalta, joille kulttuuripalvelut ovat vieraampia.\n\nTaidetyöpajoja järjestettiin 12 Helsingin leikkipuistossa. Kotoklubi Kanelin toiminta laajeni hankkeen aikana yhteensä 19 leikkipuistoon. Toisissa puistoissa taidekummin vetämä taidetyöpaja toimi myös Kotoklubi Kanelia käynnistävänä vetotekijänä. Hanke kasvatti leikkipuistohenkilökunnan osaamista taidemenetelmien käytössä. Lisäksi taidekummit laativat selkeän ohjeen käyttämästään menetelmästä. Ohjeista koottiin yhtenäinen kokonaisuus kaikkien leikkipuistojen käyttöön.\n",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "project-outcomes",
+            "key": "project-outcomes-1",
             "value": [
               {
-                "key": "project-outcomes-1",
-                "value": [
-                  {
-                    "key": "project-outcomes.project-outcomes-1.outcome-type",
-                    "value": "materiaalit-julkaisut-www-sivu-tms",
-                    "fieldType": "radioButton"
-                  },
-                  {
-                    "key": "project-outcomes.project-outcomes-1.description",
-                    "value": "Hankkeen tavoitteena oli tuoda käytetyt taidemenetelmät osaksi leikkipuistohenkilökunnan osaamista ja hyödynnettäväksi jatkossa osana Kotoklubi Kanelin ja leikkipuiston muuta toimintaa. Työpajakerrat oli rakennettu siten, että taidemenetelmän ohjaus siirtyi kertojen aikana taidekummilta yhä enemmän leikkipuistohenkilökunnan vastuulle. Lisäksi tavoitteen saavuttamiseksi jokainen taidekummi laati erillisen havainnollisen ja selkeän ohjeen käytetystä taidemenetelmästä. Ohjeet kerättiin yhtenäiseen sähköiseen muotoon ja annettiin laajemmin kaupungin leikkipuistoissa hyödynnettäväksi. Näin Kotoklubeissa voidaan hyödyntää jatkossa muitakin taidemenetelmiä kuin vain kyseisessä leikkipuistossa toimineen taidekummin ohjaamaa menetelmää. Ohjeistus on hyödynnettävissä leikkipuistojen muussa toiminnassa esim. iltapäiväkerhotoiminta koululaisille. Työpajaa varten hankitut materiaalit ja välineet jäivät leikkipuiston käyttöön ja osaa tarvikkeista on mahdollista kierrättää leikkipuistosta toiseen.",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-outcomes.project-outcomes-1.address",
-                    "value": "https://artists-o.fi/Taiteilijat_O_taidekummi_ohjeet.pdf",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-outcomes.project-outcomes-1.something",
-                    "value": "Ohjemateriaali on Helsingin kaupungin sisäisessä verkossa leikkipuistojen käytössä. Materiaalia ei ole jaettu vapaaseen verkkoon, mutta OPH:lle tutustumista varten on Taiteilijat O:n nettisivuille luotu osio, jossa materiaaliin pääsee tutustumaan kesä-elokuun 2019 ajan. Linkki on avoin, mutta Taiteilijat O:n sivustolta ei näe sen olemassaoloa. ",
-                    "fieldType": "textArea"
-                  }
-                ],
-                "fieldType": "growingFieldsetChild"
-              }
-            ],
-            "fieldType": "growingFieldset"
-          },
-          {
-            "key": "project-description",
-            "value": [
-              {
-                "key": "project-description-1",
-                "value": [
-                  {
-                    "key": "project-description.project-description-1.goal",
-                    "value": "Hankkeen tavoitteena oli kotoutumisen tukeminen yhteisöllisen taidetoiminnan kautta. Taiteilijat O ry kehitti Taidekummi-hankkeen yhteistyössä Helsingin kaupungin kanssa osaksi kaupungin ylläpitämissä leikkipuistoissa säännöllisesti toimivan Kotoklubi Kanelin toimintaa. Kotoklubien toimintaa laajennettiin syksyllä 2018 uusiin leikkipuistoihin ja käynnistysvaiheessa taidetyöpajat toimivat vetotekijänä leikkipuistokävijöille. Kotoutumisen tukemista edistivät taidetyöpajoissa tapahtunut yhdessä työskentely ja suomen kielen toiminnallinen oppiminen Toisto-menetelmän avulla. Taidetyöpajat houkuttivat myös kantasuomalaisia lapsiperheitä mukaan Kotoklubi Kanelin toimintaan, mikä lisäsi kulttuuridialogia ja suhteiden solmimista eri väestöryhmien kesken. OKM:n kulttuuripolitiikan strategian mukaisesti hanke lisäsi paikallisia osallistumismahdollisuuksia kulttuuriin sellaisten henkilöiden osalta, joille kulttuuripalvelut ovat vieraampia.",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-description.project-description-1.activity",
-                    "value": "Avustuksella toteutettiin 12 taidetyöpajaa osana Kotoklubi Kanelin toimintaa. Taidetyöpajat toteutettiin taidekummin ideoimina ja tiiviissä yhteistyössä leikkipuiston henkilökunnan kanssa. Leikkipuistojen henkilökunta tuntee parhaiten alueensa asiakkaat ja toimi asiantuntijana tältä osin yhteisessä suunnittelussa. Kotoklubi Kaneleissa kielenoppimisessa käytössä ollut Toisto-menetelmä sovitettiin osaksi taiteen tekemistä työpajan aikana. Yksi taidekummin vetämä taidetyöpajakokonaisuus kesti neljä kahden oppitunnin kertaa. Työpajat pidettiin peräkkäisinä kertoina kerran viikossa kokoontuvassa Kotoklubi Kanelissa. Osa taidetyöpajoista kohdennettiin tietoisesti vasta aloittaneisiin Kotoklubi Kaneleihin tukemaan toiminnan käynnistymistä. Helsingin kaupungin PD-sosiaaliohjaajien kanssa määritettiin leikkipuistot, joihin taidetyöpajatoiminta oli tarkoituksenmukaisinta tuoda osaksi Kotoklubi Kanelin toimintaa.",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-description.project-description-1.result",
-                    "value": "Taidekummi -työpajat toivat uusia ihmisiä osallistumaan Kotoklubi Kanelin toimintaan. Vakituisten kävijöiden määrä kasvoi taidetyöpajan aikana ja työpajan päätyttyä kävijät jatkoivat Kotoklubi Kanelissa käyntiä. Etenkin Kotoklubi Kanelin toiminnan vakiinnuttamisessa Taidekummi-työpajoilla todettiin olevan hyvä vaikutus ihmisten kiinnostuksen lisäämisessä toimintaa kohtaan. Kommentti leikkipuisto Lammesta tekstiilitaidetyöpajan päätyttyä: ”Taidekummin työpaja oli oivallinen leikkipuistoomme juuri nyt toiminnan aloitukseen sekä asiakastyötä tukeva. Uskomme, että se edesauttaa Kotoklubi Kanelin jatkon toimintaa.”\nYhdellä työpajakerralla oli keskimäärin 9-10 kävijää, mikä on Kotoklubi Kanelin osallistujatavoite. Tämän kokoisessa ryhmässä yhteisöllinen toiminta toteutuu ja mahdollisuudet Toisto-menetelmän hyödyntämiseen ovat ideaalit.\n",
-                    "fieldType": "textArea"
-                  }
-                ],
-                "fieldType": "growingFieldsetChild"
+                "key": "project-outcomes.project-outcomes-1.outcome-type",
+                "value": "materiaalit-julkaisut-www-sivu-tms",
+                "fieldType": "radioButton"
               },
               {
-                "key": "project-description-2",
-                "value": [
-                  {
-                    "key": "project-description.project-description-2.goal",
-                    "value": "Tavoitteena oli Kotoklubi Kanelin toiminnan monipuolistaminen pysyvästi taiteen ja käsillä tekemisen kautta. Tutkitusti taide ja käsillä tekeminen edistää kielen oppimista. Lisäksi yhdessä tekeminen on hyvä keino kulttuuridialogin luomiseen maahanmuuttajataustaisten ja kantasuomalaisten henkilöiden kesken. Taidetyöpajat sekä laajensivat Kotoklubi Kanelin toimintaa että lisäsivät tietoisuutta siitä kantasuomalaisen väestön parissa. Taidekummin vetämät taidetyöpajat lisäsivät vaihtelua ja toiminnallisuutta Kotoklubi Kanelissa. Tavoitteena oli lisätä leikkipuistohenkilökunnan osaamista käytettyjen taidemenetelmien osalta, jolloin menetelmät jäävät pysyvästi leikkipuistojen toimintaan ja niitä on mahdollista soveltaa leikkipuiston kaikessa toiminnassa. Henkilökunnalle yhteistyö tarjosi mahdollisuuksia hyödyntää ja kehittää omia taitojaan sekä antoi mallin taiteen ammattilaisten toteuttamasta taidetoiminnasta.",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-description.project-description-2.activity",
-                    "value": "Taidekummit suunnittelivat helposti toteutettavan taidetoiminnan työpajamallin yhteistyössä leikkipuistojen henkilökunnan kanssa. Taidekummit kokeneina taiteen ja opetuksen ammattilaisina pystyivät sopeutumaan vaihteleviin tilanteisiin ja muuttamaan suunnitelmia joustavasti tarpeen vaatiessa. Työpajoissa käytettiin helposti lähestyttäviä ja leikkipuisto-olosuhteissa toteutettavia tekniikoita. Materiaaleja taidekummit hankkivat runsaasti sekä työpajaa että myös työpajan jälkeistä leikkipuistohenkilökunnan ohjauksessa tapahtuvaa työskentelyä varten. Taidekummin ideoiman taidemenetelmän ohjaus siirtyi neljän työpajakerran aikana leikkipuistohenkilökunnan vastuulle. Taidekummi laati selkeät toimintaohjeet käytetystä menetelmästä ja luovutti ne työpajojen päätyttyä leikkipuiston henkilökunnan käyttöön Kotoklubi Kanelin toiminnassa jatkossa hyödynnettäväksi. Ohjeista koottiin yhtenäinen sähköinen ohje, joka jaettiin keväällä 2019 kaikkien Helsingin kaupungin leikkipuistojen käyttöön.",
-                    "fieldType": "textArea"
-                  },
-                  {
-                    "key": "project-description.project-description-2.result",
-                    "value": "Taidekummi -hankkeessa luotiin toiminnallisia, luovuutta ja kielen oppimista edistäviä taidetyöpajoja, joissa käytettyjä menetelmiä leikkipuistojen henkilökunta pystyy hyödyntämään jatkossakin Kotoklubi Kanelin toiminnan lisäksi esimerkiksi koululaisten iltapäivätoiminnassa. Maahanmuuttajataustaisille koululaisille voidaan pitää omaa Kotoklubi Kanelia tukemaan suomen kielen kehitystä. Kootussa ohjeistuksessa kerrotaan tekniikoiden ja tehtävien lisäksi myös yksityiskohtaisesti materiaaleista, niiden käytöstä ja hankintapaikoista. Taidekummi -työpajojen vakiinnuttamiselle osaksi kaupungin ylläpitämää Kotoklubi Kanelin toimintaa on erittäin hyvät lähtökohdat ja tarve, koska työpajat tukevat suoraan eri lähtökohdista tulevien ihmisten kohtaamista ja taiteen saavutettavuutta, edistävät kielenoppimista luovalla tavalla ja antavat työkaluja leikkipuistohenkilökunnalle taidemenetelmien käyttöön. Valitettavasti tätä vakiinnuttamista ei vielä tapahtunut.",
-                    "fieldType": "textArea"
-                  }
-                ],
-                "fieldType": "growingFieldsetChild"
+                "key": "project-outcomes.project-outcomes-1.description",
+                "value": "Hankkeen tavoitteena oli tuoda käytetyt taidemenetelmät osaksi leikkipuistohenkilökunnan osaamista ja hyödynnettäväksi jatkossa osana Kotoklubi Kanelin ja leikkipuiston muuta toimintaa. Työpajakerrat oli rakennettu siten, että taidemenetelmän ohjaus siirtyi kertojen aikana taidekummilta yhä enemmän leikkipuistohenkilökunnan vastuulle. Lisäksi tavoitteen saavuttamiseksi jokainen taidekummi laati erillisen havainnollisen ja selkeän ohjeen käytetystä taidemenetelmästä. Ohjeet kerättiin yhtenäiseen sähköiseen muotoon ja annettiin laajemmin kaupungin leikkipuistoissa hyödynnettäväksi. Näin Kotoklubeissa voidaan hyödyntää jatkossa muitakin taidemenetelmiä kuin vain kyseisessä leikkipuistossa toimineen taidekummin ohjaamaa menetelmää. Ohjeistus on hyödynnettävissä leikkipuistojen muussa toiminnassa esim. iltapäiväkerhotoiminta koululaisille. Työpajaa varten hankitut materiaalit ja välineet jäivät leikkipuiston käyttöön ja osaa tarvikkeista on mahdollista kierrättää leikkipuistosta toiseen.",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-outcomes.project-outcomes-1.address",
+                "value": "https://artists-o.fi/Taiteilijat_O_taidekummi_ohjeet.pdf",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-outcomes.project-outcomes-1.something",
+                "value": "Ohjemateriaali on Helsingin kaupungin sisäisessä verkossa leikkipuistojen käytössä. Materiaalia ei ole jaettu vapaaseen verkkoon, mutta OPH:lle tutustumista varten on Taiteilijat O:n nettisivuille luotu osio, jossa materiaaliin pääsee tutustumaan kesä-elokuun 2019 ajan. Linkki on avoin, mutta Taiteilijat O:n sivustolta ei näe sen olemassaoloa. ",
+                "fieldType": "textArea"
               }
             ],
-            "fieldType": "growingFieldset"
-          },
+            "fieldType": "growingFieldsetChild"
+          }
+        ],
+        "fieldType": "growingFieldset"
+      },
+      {
+        "key": "project-description",
+        "value": [
           {
-            "key": "textArea-1",
-            "value": "Toimintaa arvioitiin sekä taidekummeilta kerättävän palautteen kautta että Helsingin kaupungin ja Taiteilijat O ry:n yhteisen ohjausryhmän palautekeskustelujen kautta. Taidekummit keskustelivat oman leikkipuistonsa henkilökunnan kanssa työpajan onnistumisesta. Leikkipuistoissa seurattiin työpajojen kävijämääriä.\nTaidekummeille järjestettiin kaksi erillistä palautepalaveria. Toinen palautepalaveri pidettiin 28.11.2018 syksyn työpajojen taidekummeille ja toinen 14.3.2019 kevään työpajojen taidekummeille. Kaupungin edustajien (johtavat leikkipuisto-ohjaajat, PD-sosiaaliohjaajat ja Helsingin kaupungin kasvatus- ja koulutustoimialan asiantuntijat) kanssa kokoonnuttiin 28.11.2018, 9.1.2019 ja 6.3.2019. Kaikista tapaamisista laadittiin muistiot.\nTaidekummeilta kerättiin tietoa yhteistyön sujumisesta leikkipuiston kanssa, taidemenetelmän siirtymisestä leikkipuistohenkilökunnan osaamiseen ja kehittämisajatuksia. Palautetta käsiteltiin ohjausryhmän tapaamisissa ja päätettiin jatkotoimista.",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "textArea-5",
-            "value": "Hankkeen alustana toimi Helsingin kaupungin leikkipuistoissa toimiva Kotoklubi Kaneli, joka on maahanmuuttajataustaisille pienten lasten vanhemmille tarkoitettua toimintaa. Kotoklubeissa suomen kieltä opetetaan Toisto-menetelmällä leikkipuistohenkilökunnan toimesta.\nLeikkipuistohenkilökunnan maahanmuuttajataustaiset työntekijät osallistuivat aktiivisesti Kotoklubi Kanelin toimintaan. Taidekummi toteutti työpajan aina leikkipuistohenkilökunnan toiveita kuunnellen ja yhteistyössä leikkipuiston kanssa. Työpajan sisältö myös rakentui joka kerta Kotoklubin osallistujien tarpeita ja toiveita kuunnellen, vaikka valittu tekniikka ja työskentelytavat perustuivat taidekummin ammatilliseen osaamiseen. Yksi taidekummeista on itse maahanmuuttajataustainen.\n",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "textArea-3",
-            "value": "Hankkeesta tiedotettiin Helsingin kaupungin toimesta. Eniten tiedotusta tehtiin leikkipuistojen omien kanavien kautta. Ilmoituksia työpajoista levitettiin leikkipuistojen lähialueilla, neuvoloissa, päiväkodeissa jne. Etenkin uusina käynnistyvistä Kotoklubi Kaneleista ilmoiteltiin PD-sosiaaliohjaajien työnä laajasti. Osassa leikkipuistoissa Kotoklubi Kaneli toiminta oli vasta alkamassa ja näiden puistojen Taidekummi-työpajoista tiedotettiin laajasti. Parhaiten maahanmuuttajataustaiset potentiaaliset osallistujat tavoitettiin henkilökohtaisesti toiminnasta kertomalla.\nYleistä hanketiedotusta on tehty Taiteilijat O ry:n omissa kanavissa (www-sivut, some-kanavat) sekä emojärjestö Ornamo ry:n viestintävälineissä. Laajempaan tiedotukseen työpajoista ei resurssien puuttuessa voitu ryhtyä. \n",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "textArea-2",
-            "value": "Leikkipuistoissa pidettiin kirjaa työpajojen kävijöistä. Yhteensä kävijöitä 12 Taidekummi-työpajassa oli 457 henkeä. Yhdellä työpajakerralla oli keskimäärin 9-10 kävijää, mikä on Kotoklubikerran osallistujatavoite. Hankkeen yhtenä tavoitteena oli tuoda kantasuomalaisia ja maahanmuuttajataustaisia henkilöitä yhteisen toiminnan pariin ja lisätä näin integraatiota. Monissa työpajoissa kantasuomalainen vanhempi lapsineen uskaltautui ainakin työpajakertojen ajaksi mukaan Kotoklubi Kanelin toimintaan.",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "textArea-4",
-            "value": "Hanke on työllistänyt 10 taidekummia 12 työpajan ohjaustehtävissä. Kaksi taidekummeista veti kaksi sisällöltään erilaista taidetyöpajaa eri leikkipuistoissa. Lisäksi hanke on työllistänyt koordinointityössä työryhmän jäseniä ja pienissä määrin valokuvaajan. Palkkaa työstä on saanut yhteensä 12 henkeä. Kokouspalkkioita on maksettu taidekummeille orientaatio- ja palautepalavereista. Lisäksi hankekoordinointia ja hankesuunnittelua on ohjattu Taiteilijat O ry:n hallitustyönä. Hallitusjäsenille on tästä maksettu kokouspalkkiot.\nYhdestä työpajasta on kertynyt 8 tuntia ohjaustyötä, 6 tuntia verkostoitumis- ja materiaalinhankintatyötä sekä 3 tuntia havainnollisen ohjeen toteuttamistyötä. Opetustyön tuntipalkka on ollut 60 €/h, verkostoitumistyön tuntipalkka on ollut 25 €/h ja ohjeistuksen laatimisen tuntipalkka on ollut 80 €/h. Työryhmälle organisointityön tuntipalkka on ollut 25 €/h ja valokuvaajalle on maksettu sama 25 €/h. Oheisessa liitteessä hankkeessa työllistyneiden työaikaseuranta.\n",
-            "fieldType": "textArea"
-          },
-          {
-            "key": "namedAttachment-0",
-            "value": "paakirja ja kustannuspaikkalaskelma.pdf",
-            "fieldType": "namedAttachment"
-          },
-          {
-            "key": "repeating-attachment-other",
+            "key": "project-description-1",
             "value": [
               {
-                "key": "repeating-attachment-otherliite-1",
-                "value": [
-                  {
-                    "key": "repeating-attachment-other.repeating-attachment-otherliite-1.attachment",
-                    "value": "tyoaikaseuranta.pdf",
-                    "fieldType": "namedAttachment"
-                  }
-                ],
-                "fieldType": "growingFieldsetChild"
+                "key": "project-description.project-description-1.goal",
+                "value": "Hankkeen tavoitteena oli kotoutumisen tukeminen yhteisöllisen taidetoiminnan kautta. Taiteilijat O ry kehitti Taidekummi-hankkeen yhteistyössä Helsingin kaupungin kanssa osaksi kaupungin ylläpitämissä leikkipuistoissa säännöllisesti toimivan Kotoklubi Kanelin toimintaa. Kotoklubien toimintaa laajennettiin syksyllä 2018 uusiin leikkipuistoihin ja käynnistysvaiheessa taidetyöpajat toimivat vetotekijänä leikkipuistokävijöille. Kotoutumisen tukemista edistivät taidetyöpajoissa tapahtunut yhdessä työskentely ja suomen kielen toiminnallinen oppiminen Toisto-menetelmän avulla. Taidetyöpajat houkuttivat myös kantasuomalaisia lapsiperheitä mukaan Kotoklubi Kanelin toimintaan, mikä lisäsi kulttuuridialogia ja suhteiden solmimista eri väestöryhmien kesken. OKM:n kulttuuripolitiikan strategian mukaisesti hanke lisäsi paikallisia osallistumismahdollisuuksia kulttuuriin sellaisten henkilöiden osalta, joille kulttuuripalvelut ovat vieraampia.",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-description.project-description-1.activity",
+                "value": "Avustuksella toteutettiin 12 taidetyöpajaa osana Kotoklubi Kanelin toimintaa. Taidetyöpajat toteutettiin taidekummin ideoimina ja tiiviissä yhteistyössä leikkipuiston henkilökunnan kanssa. Leikkipuistojen henkilökunta tuntee parhaiten alueensa asiakkaat ja toimi asiantuntijana tältä osin yhteisessä suunnittelussa. Kotoklubi Kaneleissa kielenoppimisessa käytössä ollut Toisto-menetelmä sovitettiin osaksi taiteen tekemistä työpajan aikana. Yksi taidekummin vetämä taidetyöpajakokonaisuus kesti neljä kahden oppitunnin kertaa. Työpajat pidettiin peräkkäisinä kertoina kerran viikossa kokoontuvassa Kotoklubi Kanelissa. Osa taidetyöpajoista kohdennettiin tietoisesti vasta aloittaneisiin Kotoklubi Kaneleihin tukemaan toiminnan käynnistymistä. Helsingin kaupungin PD-sosiaaliohjaajien kanssa määritettiin leikkipuistot, joihin taidetyöpajatoiminta oli tarkoituksenmukaisinta tuoda osaksi Kotoklubi Kanelin toimintaa.",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-description.project-description-1.result",
+                "value": "Taidekummi -työpajat toivat uusia ihmisiä osallistumaan Kotoklubi Kanelin toimintaan. Vakituisten kävijöiden määrä kasvoi taidetyöpajan aikana ja työpajan päätyttyä kävijät jatkoivat Kotoklubi Kanelissa käyntiä. Etenkin Kotoklubi Kanelin toiminnan vakiinnuttamisessa Taidekummi-työpajoilla todettiin olevan hyvä vaikutus ihmisten kiinnostuksen lisäämisessä toimintaa kohtaan. Kommentti leikkipuisto Lammesta tekstiilitaidetyöpajan päätyttyä: ”Taidekummin työpaja oli oivallinen leikkipuistoomme juuri nyt toiminnan aloitukseen sekä asiakastyötä tukeva. Uskomme, että se edesauttaa Kotoklubi Kanelin jatkon toimintaa.”\nYhdellä työpajakerralla oli keskimäärin 9-10 kävijää, mikä on Kotoklubi Kanelin osallistujatavoite. Tämän kokoisessa ryhmässä yhteisöllinen toiminta toteutuu ja mahdollisuudet Toisto-menetelmän hyödyntämiseen ovat ideaalit.\n",
+                "fieldType": "textArea"
               }
             ],
-            "fieldType": "growingFieldset"
+            "fieldType": "growingFieldsetChild"
+          },
+          {
+            "key": "project-description-2",
+            "value": [
+              {
+                "key": "project-description.project-description-2.goal",
+                "value": "Tavoitteena oli Kotoklubi Kanelin toiminnan monipuolistaminen pysyvästi taiteen ja käsillä tekemisen kautta. Tutkitusti taide ja käsillä tekeminen edistää kielen oppimista. Lisäksi yhdessä tekeminen on hyvä keino kulttuuridialogin luomiseen maahanmuuttajataustaisten ja kantasuomalaisten henkilöiden kesken. Taidetyöpajat sekä laajensivat Kotoklubi Kanelin toimintaa että lisäsivät tietoisuutta siitä kantasuomalaisen väestön parissa. Taidekummin vetämät taidetyöpajat lisäsivät vaihtelua ja toiminnallisuutta Kotoklubi Kanelissa. Tavoitteena oli lisätä leikkipuistohenkilökunnan osaamista käytettyjen taidemenetelmien osalta, jolloin menetelmät jäävät pysyvästi leikkipuistojen toimintaan ja niitä on mahdollista soveltaa leikkipuiston kaikessa toiminnassa. Henkilökunnalle yhteistyö tarjosi mahdollisuuksia hyödyntää ja kehittää omia taitojaan sekä antoi mallin taiteen ammattilaisten toteuttamasta taidetoiminnasta.",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-description.project-description-2.activity",
+                "value": "Taidekummit suunnittelivat helposti toteutettavan taidetoiminnan työpajamallin yhteistyössä leikkipuistojen henkilökunnan kanssa. Taidekummit kokeneina taiteen ja opetuksen ammattilaisina pystyivät sopeutumaan vaihteleviin tilanteisiin ja muuttamaan suunnitelmia joustavasti tarpeen vaatiessa. Työpajoissa käytettiin helposti lähestyttäviä ja leikkipuisto-olosuhteissa toteutettavia tekniikoita. Materiaaleja taidekummit hankkivat runsaasti sekä työpajaa että myös työpajan jälkeistä leikkipuistohenkilökunnan ohjauksessa tapahtuvaa työskentelyä varten. Taidekummin ideoiman taidemenetelmän ohjaus siirtyi neljän työpajakerran aikana leikkipuistohenkilökunnan vastuulle. Taidekummi laati selkeät toimintaohjeet käytetystä menetelmästä ja luovutti ne työpajojen päätyttyä leikkipuiston henkilökunnan käyttöön Kotoklubi Kanelin toiminnassa jatkossa hyödynnettäväksi. Ohjeista koottiin yhtenäinen sähköinen ohje, joka jaettiin keväällä 2019 kaikkien Helsingin kaupungin leikkipuistojen käyttöön.",
+                "fieldType": "textArea"
+              },
+              {
+                "key": "project-description.project-description-2.result",
+                "value": "Taidekummi -hankkeessa luotiin toiminnallisia, luovuutta ja kielen oppimista edistäviä taidetyöpajoja, joissa käytettyjä menetelmiä leikkipuistojen henkilökunta pystyy hyödyntämään jatkossakin Kotoklubi Kanelin toiminnan lisäksi esimerkiksi koululaisten iltapäivätoiminnassa. Maahanmuuttajataustaisille koululaisille voidaan pitää omaa Kotoklubi Kanelia tukemaan suomen kielen kehitystä. Kootussa ohjeistuksessa kerrotaan tekniikoiden ja tehtävien lisäksi myös yksityiskohtaisesti materiaaleista, niiden käytöstä ja hankintapaikoista. Taidekummi -työpajojen vakiinnuttamiselle osaksi kaupungin ylläpitämää Kotoklubi Kanelin toimintaa on erittäin hyvät lähtökohdat ja tarve, koska työpajat tukevat suoraan eri lähtökohdista tulevien ihmisten kohtaamista ja taiteen saavutettavuutta, edistävät kielenoppimista luovalla tavalla ja antavat työkaluja leikkipuistohenkilökunnalle taidemenetelmien käyttöön. Valitettavasti tätä vakiinnuttamista ei vielä tapahtunut.",
+                "fieldType": "textArea"
+              }
+            ],
+            "fieldType": "growingFieldsetChild"
           }
-        ]
+        ],
+        "fieldType": "growingFieldset"
+      },
+      {
+        "key": "textArea-1",
+        "value": "Toimintaa arvioitiin sekä taidekummeilta kerättävän palautteen kautta että Helsingin kaupungin ja Taiteilijat O ry:n yhteisen ohjausryhmän palautekeskustelujen kautta. Taidekummit keskustelivat oman leikkipuistonsa henkilökunnan kanssa työpajan onnistumisesta. Leikkipuistoissa seurattiin työpajojen kävijämääriä.\nTaidekummeille järjestettiin kaksi erillistä palautepalaveria. Toinen palautepalaveri pidettiin 28.11.2018 syksyn työpajojen taidekummeille ja toinen 14.3.2019 kevään työpajojen taidekummeille. Kaupungin edustajien (johtavat leikkipuisto-ohjaajat, PD-sosiaaliohjaajat ja Helsingin kaupungin kasvatus- ja koulutustoimialan asiantuntijat) kanssa kokoonnuttiin 28.11.2018, 9.1.2019 ja 6.3.2019. Kaikista tapaamisista laadittiin muistiot.\nTaidekummeilta kerättiin tietoa yhteistyön sujumisesta leikkipuiston kanssa, taidemenetelmän siirtymisestä leikkipuistohenkilökunnan osaamiseen ja kehittämisajatuksia. Palautetta käsiteltiin ohjausryhmän tapaamisissa ja päätettiin jatkotoimista.",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "textArea-5",
+        "value": "Hankkeen alustana toimi Helsingin kaupungin leikkipuistoissa toimiva Kotoklubi Kaneli, joka on maahanmuuttajataustaisille pienten lasten vanhemmille tarkoitettua toimintaa. Kotoklubeissa suomen kieltä opetetaan Toisto-menetelmällä leikkipuistohenkilökunnan toimesta.\nLeikkipuistohenkilökunnan maahanmuuttajataustaiset työntekijät osallistuivat aktiivisesti Kotoklubi Kanelin toimintaan. Taidekummi toteutti työpajan aina leikkipuistohenkilökunnan toiveita kuunnellen ja yhteistyössä leikkipuiston kanssa. Työpajan sisältö myös rakentui joka kerta Kotoklubin osallistujien tarpeita ja toiveita kuunnellen, vaikka valittu tekniikka ja työskentelytavat perustuivat taidekummin ammatilliseen osaamiseen. Yksi taidekummeista on itse maahanmuuttajataustainen.\n",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "textArea-3",
+        "value": "Hankkeesta tiedotettiin Helsingin kaupungin toimesta. Eniten tiedotusta tehtiin leikkipuistojen omien kanavien kautta. Ilmoituksia työpajoista levitettiin leikkipuistojen lähialueilla, neuvoloissa, päiväkodeissa jne. Etenkin uusina käynnistyvistä Kotoklubi Kaneleista ilmoiteltiin PD-sosiaaliohjaajien työnä laajasti. Osassa leikkipuistoissa Kotoklubi Kaneli toiminta oli vasta alkamassa ja näiden puistojen Taidekummi-työpajoista tiedotettiin laajasti. Parhaiten maahanmuuttajataustaiset potentiaaliset osallistujat tavoitettiin henkilökohtaisesti toiminnasta kertomalla.\nYleistä hanketiedotusta on tehty Taiteilijat O ry:n omissa kanavissa (www-sivut, some-kanavat) sekä emojärjestö Ornamo ry:n viestintävälineissä. Laajempaan tiedotukseen työpajoista ei resurssien puuttuessa voitu ryhtyä. \n",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "textArea-2",
+        "value": "Leikkipuistoissa pidettiin kirjaa työpajojen kävijöistä. Yhteensä kävijöitä 12 Taidekummi-työpajassa oli 457 henkeä. Yhdellä työpajakerralla oli keskimäärin 9-10 kävijää, mikä on Kotoklubikerran osallistujatavoite. Hankkeen yhtenä tavoitteena oli tuoda kantasuomalaisia ja maahanmuuttajataustaisia henkilöitä yhteisen toiminnan pariin ja lisätä näin integraatiota. Monissa työpajoissa kantasuomalainen vanhempi lapsineen uskaltautui ainakin työpajakertojen ajaksi mukaan Kotoklubi Kanelin toimintaan.",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "textArea-4",
+        "value": "Hanke on työllistänyt 10 taidekummia 12 työpajan ohjaustehtävissä. Kaksi taidekummeista veti kaksi sisällöltään erilaista taidetyöpajaa eri leikkipuistoissa. Lisäksi hanke on työllistänyt koordinointityössä työryhmän jäseniä ja pienissä määrin valokuvaajan. Palkkaa työstä on saanut yhteensä 12 henkeä. Kokouspalkkioita on maksettu taidekummeille orientaatio- ja palautepalavereista. Lisäksi hankekoordinointia ja hankesuunnittelua on ohjattu Taiteilijat O ry:n hallitustyönä. Hallitusjäsenille on tästä maksettu kokouspalkkiot.\nYhdestä työpajasta on kertynyt 8 tuntia ohjaustyötä, 6 tuntia verkostoitumis- ja materiaalinhankintatyötä sekä 3 tuntia havainnollisen ohjeen toteuttamistyötä. Opetustyön tuntipalkka on ollut 60 €/h, verkostoitumistyön tuntipalkka on ollut 25 €/h ja ohjeistuksen laatimisen tuntipalkka on ollut 80 €/h. Työryhmälle organisointityön tuntipalkka on ollut 25 €/h ja valokuvaajalle on maksettu sama 25 €/h. Oheisessa liitteessä hankkeessa työllistyneiden työaikaseuranta.\n",
+        "fieldType": "textArea"
+      },
+      {
+        "key": "namedAttachment-0",
+        "value": "paakirja ja kustannuspaikkalaskelma.pdf",
+        "fieldType": "namedAttachment"
+      },
+      {
+        "key": "repeating-attachment-other",
+        "value": [
+          {
+            "key": "repeating-attachment-otherliite-1",
+            "value": [
+              {
+                "key": "repeating-attachment-other.repeating-attachment-otherliite-1.attachment",
+                "value": "tyoaikaseuranta.pdf",
+                "fieldType": "namedAttachment"
+              }
+            ],
+            "fieldType": "growingFieldsetChild"
+          }
+        ],
+        "fieldType": "growingFieldset"
       }
-    }
+    ]
+  }
+}
