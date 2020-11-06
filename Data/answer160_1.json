@@ -1,0 +1,191 @@
+{
+    "haku_id": 160,
+    "organization_name": "Rikkaveen kyläyhdistys ry",
+    "project_name": "Kotona Okussa",
+    "loppuselvitys_answers": {
+      "value": [
+        { "key": "language", "value": "fi", "fieldType": "radioButton" },
+        {
+          "key": "personnel-costs-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "personnel-costs-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "material-costs-row.description",
+          "value": "Tarvike- ja kopiokulut",
+          "fieldType": "textField"
+        },
+        {
+          "key": "material-costs-row.amount",
+          "value": "153",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "service-purchase-costs-row.description",
+          "value": " Ostop. opetus,retki-,tapahtuma-,koulutu-jakurssikulut",
+          "fieldType": "textField"
+        },
+        {
+          "key": "service-purchase-costs-row.amount",
+          "value": "3069",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "rent-costs-row.amount",
+          "value": "289",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "steamship-costs-row.description",
+          "value": "Matkakulut, oph seminaari Helsingissä",
+          "fieldType": "textField"
+        },
+        {
+          "key": "steamship-costs-row.amount",
+          "value": "717",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "other-costs-row.description",
+          "value": "Toimistokulut",
+          "fieldType": "textField"
+        },
+        {
+          "key": "other-costs-row.amount",
+          "value": "222",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "project-incomes-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "project-incomes-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "eu-programs-income-row.amount",
+          "value": "",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "other-public-financing-income-row.amount",
+          "value": "0",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "private-financing-income-row.amount",
+          "value": "",
+          "fieldType": "moneyField"
+        },
+        {
+          "key": "rent-costs-row.description",
+          "value": "kerhotilan vuokrakulut",
+          "fieldType": "textField"
+        },
+        {
+          "key": "eu-programs-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "other-public-financing-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "private-financing-income-row.description",
+          "value": "",
+          "fieldType": "textField"
+        },
+        {
+          "key": "textArea-0",
+          "value": "Tavoitteena oli  löytää suomen kielen oppimiseen halukkaita. Vapaaehtoisten kanssa tehty Rikkaveen kyläyhdistyksen vetämässä kerhossa osallistujia syyrialaisista ja kurdeista, joiden  alle eskari-ikäisten lasten hoitokerho samalla. Kaikilla heillä tavoitteena kielen taito, jolla pääsee opiskelemaan ammattiin.\nTavoitteena myös saada oikeaa kieliopetusta Outokumpuun liian pitkän Joensuussa olevien kurssien vaativan  päivän vuoksi. Tavoitteet saavutettiin. ",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "project-description",
+          "value": [
+            {
+              "key": "project-description-1",
+              "value": [
+                {
+                  "key": "project-description.project-description-1.goal",
+                  "value": "Löytää  puutteellisessa suomen kielen tilanteessa olevia, tavoitimme heitä.-Olemme saavuttaneet alkeiskielitason kerholaisille ja pystyvät kertomaan itsestään ja päivänohjelmastaan.\n-Nyt syksyllä aloittivat lisäksi kanssamme saksan ja venäjän kieliset henkilöt. Heidän perheissään puhutaan kolmea kieltä. \nSaada kielikurssi Outokumpuun\n-Outokummun kaupunki ja Joensuun seutuopisto aloitti kerran viikossa suomen kielen kurssin.\n-TE-palvelut sopivat tietokonekurssista, jonka voi suorittaa internetissä ja kolme kurdinaista osallistuu syksystä 2019 syksyyn 2020 sille.\nSyrjäytymisen ehkäiseminen: Meillä on ollut kevään ajan kuntouttavassa työtoiminnassa yksi henkilö, joka ei kotimaassaan saanut kouluopetusta. Hänen sopimuksensa jatkuu vuoden loppuun.\nTavoitteena antaa varmuutta ammatin oppimisen vaatimuksiin oppimalla kieltä monipuolisesti.\n\n\n",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-1.activity",
+                  "value": "Kerhotoiminta kaksi kertaa viikossa 3 tuntia lukien, kirjoittaen,  askarrellen, keittäen, yhdessä retkeillen ja tutustuen uusiin paikkoihin. Kyläillen heidän luonaan. \nOstopalveluna jaksoja Joensuun seudun kansalaisopistolta.",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-description.project-description-1.result",
+                  "value": "Suomen kielen oppimisen ensimmäinen askel saavutettiin ja osaa kerholaisista osallistuu vaativimmalle internet kurssille. Luottamus on kasvanut.\nSaatiin viranomaiset (TE, Outokummun kaupunki Siun soten sos.palvelut)  ymmärtämään tilanne, joka vallitsi Outokummussa kielen oppimisen kannalta. Nyt on Outokummussa Joensuun seudun kansalaisopiston kurssi ja internet -kurssi  mahdollisuus.",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            }
+          ],
+          "fieldType": "growingFieldset"
+        },
+        {
+          "key": "textArea-1",
+          "value": "Toiminta koettiin eri paikallisten viranomaisten suunnasta palvelevaksi.\noppilaat=kerholaiset osallistuivat 100%.\nOlemme itse tyytyväisiä tekemäämme työhön ja saavutettuun kerholaisten luottamukseen.",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "textArea-5",
+          "value": "Toiveet kuunneltiin ja toteutettiin.  Ohjelmaan otettiin uusia tapoja tulleiden toiveiden vuoksi esim. ompelukoneen käyttö ja sillä tekeminen. Osallistuttiin myös kehitystyöhön menevään projektiin heidän toiveistaan.",
+          "fieldType": "textArea"
+        },
+        {
+          "key": "textArea-3",
+          "value": "Olemme pitäneet matalaa profiilia ulospäin. Kerhoon tavoiteltiin kolmella kielellä tehdyillä  esitteillä osallistujia ja koko kaupungin koneisto osallistui keväällä  vuoden2019 syksyllä alkavan kurssin tiedottamiseen työpaikoilla, työpajoissa, sos. toimistossa.",
+          "fieldType": "textArea"
+        },
+        { "key": "textArea-2", "value": "8 ", "fieldType": "textArea" },
+        {
+          "key": "project-outcomes",
+          "value": [
+            {
+              "key": "project-outcomes-1",
+              "value": [
+                {
+                  "key": "project-outcomes.project-outcomes-1.outcome-type",
+                  "value": "muu-tuotos",
+                  "fieldType": "radioButton"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.description",
+                  "value": "Toimintamme oli matalan kynnyksen toimintaa, jossa eri keinoin lukemalla, kirjoittamalla, taidetta tekemällä, käsitöitä tekemällä, vierailemalla opiskelupaikoissa, työpaikoilla, liikkeissä, vierailemalla kodeissa, tekemällä retkiä yhdessä kanta-asukkaiden kanssa. Käymällä kohderyhmän jäsenten kotimaan asioita läpi. Maantiedon ja karttojen tutkiminen. Pelien pelaaminen. Kaikenlainen aktiivinen toiminta. What´s up-ryhmä kerholaisille tiedottamiseen.",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.address",
+                  "value": "",
+                  "fieldType": "textArea"
+                },
+                {
+                  "key": "project-outcomes.project-outcomes-1.something",
+                  "value": "",
+                  "fieldType": "textArea"
+                }
+              ],
+              "fieldType": "growingFieldsetChild"
+            }
+          ],
+          "fieldType": "growingFieldset"
+        }
+        
+      ]
+    }
+  }
