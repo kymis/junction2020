@@ -14,16 +14,17 @@ def parse_fundings():
         d = {
             "Funding_ID": e["id"],
             "Content_name": e["content"]["name"]["fi"],
-            "Duration": e["content"]["duration"]["end"],
+            "Duration": e["content"]["duration"]["end"][:7],
             "Self_financing_percentage": e["content"]["self-financing-percentage"],
 
         }
 
         if "rahoitusalueet" in e["content"] and len(e["content"]["rahoitusalueet"]) > 0:
-            d["Funding_areas"] = e["content"]["rahoitusalueet"]
+            d["Funding_areas"] = e["content"]["rahoitusalueet"][0]["rahoitusalue"]
 
         if "total-grant-size" in e["content"]:
             d["Total_grant_size"] = e["content"]["total-grant-size"]
 
+        final_data.append(d)
     final_json = json.dumps(final_data, indent=4)
     return final_json
