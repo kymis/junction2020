@@ -1,13 +1,13 @@
 import json
 
-file = open('example.json')
+file = open('../Data/data.json')
 
 # dictionary
 data = json.load(file)
 
 final_data = []
 
-for e in data["haku"]:
+for e in data["loppuselvitys"]:
     # basic details
     d = {
         "Project_ID": e["haku_id"],
@@ -52,11 +52,10 @@ for e in data["haku"]:
                     d["Project_outcomeType"] = dv["value"]
                 elif dv["key"] == "project-outcomes.project-outcomes-1.description":
                     d["Project_outcome"] = dv["value"]
-
+    print(d)
     final_data.append(d)
 
     final_json = json.dumps(final_data, indent=4)
-    with open("test.json", "w") as outfile:
+    with open("../Processed_data/projects.json", "w") as outfile:
         outfile.write(final_json)
 
-# print(final_json)
