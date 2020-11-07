@@ -71,7 +71,7 @@ def parse_projects():
         if city:
             d["City"] = city
         else:
-            d["City"] = "NO CITY FOUND"
+            d["City"] = "-"
 
         v = e["loppuselvitys_answers"]["value"]
         for obj in v:
