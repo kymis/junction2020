@@ -14,7 +14,7 @@ def parse_fundings():
         d = {
             "Funding_ID": e["id"],
             "Content_name": e["content"]["name"]["fi"],
-            "Duration": e["content"]["duration"]["end"],
+            "Duration": e["content"]["duration"]["end"][:7],
             "Self_financing_percentage": e["content"]["self-financing-percentage"],
 
         }

@@ -1,406 +1,406 @@
 [
-  {
-    "Funding_ID": 4,
-    "Content_name": "Vientiteollisuusalojen ammatillisen koulutuksen kehitt\u00e4minen",
-    "Duration": "2015-12-02T14:15:00.000Z",
-    "Self_financing_percentage": 25
-  },
-  {
-    "Funding_ID": 11,
-    "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2016 ",
-    "Duration": "2016-02-18T14:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus"
-  },
-  {
-    "Funding_ID": 25,
-    "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille",
-    "Duration": "2016-04-22T13:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Kristillisten koulujen kerhotoiminta"
-  },
-  {
-    "Funding_ID": 28,
-    "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen esi- ja perusopetuksessa sek\u00e4 lukiokoulutuksessa ",
-    "Duration": "2016-05-17T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 29,
-    "Content_name": "Esi- ja perusopetuksen tietoverkkojen hankinnat",
-    "Duration": "2016-05-17T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 33,
-    "Content_name": "Valtakunnallisten n\u00e4ytt\u00f6tutkintoaineistojen kehitt\u00e4minen - painopiste 1",
-    "Duration": "2016-05-17T13:15:00.000Z",
-    "Self_financing_percentage": 10
-  },
-  {
-    "Funding_ID": 34,
-    "Content_name": "Alkuper\u00e4iskarjan hoidon tuki",
-    "Duration": "2016-05-19T13:15:00.000Z",
-    "Self_financing_percentage": 25
-  },
-  {
-    "Funding_ID": 35,
-    "Content_name": "Valtakunnallisten n\u00e4ytt\u00f6tutkintoaineistojen kehitt\u00e4minen - painopiste 2",
-    "Duration": "2016-05-17T13:15:00.000Z",
-    "Self_financing_percentage": 25
-  },
-  {
-    "Funding_ID": 37,
-    "Content_name": "Ammatillisen koulutuksen kansainv\u00e4listyminen",
-    "Duration": "2016-06-15T13:15:00.000Z",
-    "Self_financing_percentage": 25
-  },
-  {
-    "Funding_ID": 40,
-    "Content_name": "Varhaiskasvatuksen kehitt\u00e4minen",
-    "Duration": "2016-06-07T13:15:00.000Z",
-    "Self_financing_percentage": 30
-  },
-  {
-    "Funding_ID": 41,
-    "Content_name": "Valtionavustukset kielikylpytoiminnan laajentamiseen",
-    "Duration": "2016-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 42,
-    "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansainv\u00e4listymisen kehitt\u00e4mishankkeet",
-    "Duration": "2016-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 43,
-    "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansalliset kehitt\u00e4mishankkeet",
-    "Duration": "2016-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 5
-  },
-  {
-    "Funding_ID": 47,
-    "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska",
-    "Duration": "2016-08-15T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 48,
-    "Content_name": "Osaamisperusteisuuden ja asiakasl\u00e4ht\u00f6isyyden edist\u00e4minen",
-    "Duration": "2016-09-08T13:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 50,
-    "Content_name": "Vapaan sivistysty\u00f6n ylim\u00e4\u00e4r\u00e4iset avustukset",
-    "Duration": "2016-09-29T13:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Kes\u00e4yliopisto"
-  },
-  {
-    "Funding_ID": 51,
-    "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen",
-    "Duration": "2016-09-30T13:15:00.000Z",
-    "Self_financing_percentage": 25
-  },
-  {
-    "Funding_ID": 53,
-    "Content_name": "Urheilijoiden ammatillisen peruskoulutuksen j\u00e4rjest\u00e4minen",
-    "Duration": "2016-10-25T13:15:00.000Z",
-    "Self_financing_percentage": 10
-  },
-  {
-    "Funding_ID": 56,
-    "Content_name": "Ammatillisen koulutuksen ty\u00f6el\u00e4m\u00e4l\u00e4ht\u00f6iset kokeilut",
-    "Duration": "2016-10-31T14:15:00.000Z",
-    "Self_financing_percentage": 10
-  },
-  {
-    "Funding_ID": 57,
-    "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 1: Tutoropettajien koulutus ja osaamisen kehitt\u00e4minen",
-    "Duration": "2016-11-15T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 58,
-    "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 2: Tutoropettajien toiminta",
-    "Duration": "2016-11-15T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 59,
-    "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 3: Kokeilu-, kehitt\u00e4mis- ja innovaatiotoiminta",
-    "Duration": "2016-11-30T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 61,
-    "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2017",
-    "Duration": "2017-01-31T14:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Aikuiskoulutus ja vapaa sivistysty\u00f6"
-  },
-  {
-    "Funding_ID": 62,
-    "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen",
-    "Duration": "2016-12-07T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 78,
-    "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille",
-    "Duration": "2017-05-12T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 81,
-    "Content_name": "Alkuper\u00e4iskarjan geenipankkitoiminta",
-    "Duration": "2017-05-18T13:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 82,
-    "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen esi- ja perusopetuksessa sek\u00e4 lukiokoulutuksessa 2017",
-    "Duration": "2017-05-24T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 85,
-    "Content_name": "Ammatillisen koulutuksen kansainv\u00e4listyminen",
-    "Duration": "2017-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 87,
-    "Content_name": "Ammatillisen koulutuksen koulutusvientikokeilujen markkinointimateriaali",
-    "Duration": "2017-05-19T13:15:00.000Z",
-    "Self_financing_percentage": 10,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 89,
-    "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen varhaiskasvatuksessa 2017 ",
-    "Duration": "2017-05-24T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 90,
-    "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska",
-    "Duration": "2017-06-09T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 91,
-    "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansainv\u00e4listymisen kehitt\u00e4mishankkeet",
-    "Duration": "2017-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 92,
-    "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansalliset kehitt\u00e4mishankkeet",
-    "Duration": "2017-05-31T13:15:00.000Z",
-    "Self_financing_percentage": 5
-  },
-  {
-    "Funding_ID": 95,
-    "Content_name": "Valtionavustukset kielikylpytoiminnan laajentamiseen",
-    "Duration": "2017-06-07T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 99,
-    "Content_name": "Finnish-Russian Student and Teacher Mobility Programme (FIRST+) 2017 call",
-    "Duration": "2017-09-29T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 100,
-    "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Koulutuksen j\u00e4rjest\u00e4misen ydinprosessien hallinta",
-    "Duration": "2017-11-10T14:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 101,
-    "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Muutosjohtaminen",
-    "Duration": "2017-11-10T14:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 103,
-    "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Yhteis\u00f6llisyys, hyvinvointi ja osallisuuden edist\u00e4minen",
-    "Duration": "2017-11-10T14:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 106,
-    "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen",
-    "Duration": "2017-09-30T13:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus"
-  },
-  {
-    "Funding_ID": 110,
-    "Content_name": "Valtionavustukset kristillisten koulujen toimintaan",
-    "Duration": "2017-09-22T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 111,
-    "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 A: Tutoropettajien toiminta ja kouluttaminen 2017",
-    "Duration": "2017-10-13T13:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 113,
-    "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 B: Tutoropettajatoiminnan kehitt\u00e4minen alueellisesti 2017",
-    "Duration": "2017-10-13T13:15:00.000Z",
-    "Self_financing_percentage": 5
-  },
-  {
-    "Funding_ID": 114,
-    "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle",
-    "Duration": "2017-10-09T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 115,
-    "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen 2017",
-    "Duration": "2017-11-13T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 119,
-    "Content_name": "Reformil\u00e4hettil\u00e4\u00e4t",
-    "Duration": "2017-12-05T14:15:00.000Z",
-    "Self_financing_percentage": 5
-  },
-  {
-    "Funding_ID": 123,
-    "Content_name": "Valtionavustukset perusopetuksen ja lukiokoulutuksen kansainv\u00e4listymiseen",
-    "Duration": "2017-10-31T14:15:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 127,
-    "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2018, aluehallintovirastot ",
-    "Duration": "2018-01-31T14:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus"
-  },
-  {
-    "Funding_ID": 133,
-    "Content_name": "HEI ICI Programme 2016-2020 ",
-    "Duration": "2018-01-24T12:30:00.000Z",
-    "Self_financing_percentage": 20
-  },
-  {
-    "Funding_ID": 140,
-    "Content_name": "Valtionavustukset kielten opiskelun varhentamiseen, kehitt\u00e4miseen ja lis\u00e4\u00e4miseen - Hakuryhm\u00e4 A",
-    "Duration": "2018-03-09T14:15:00.000Z",
-    "Self_financing_percentage": 5
-  },
-  {
-    "Funding_ID": 143,
-    "Content_name": "Perusopetuksen innovaatio- ja kokeiluhaku 2018",
-    "Duration": "2018-04-27T13:15:00.000Z",
-    "Self_financing_percentage": 10,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
-    "Total_grant_size": 6000000
-  },
-  {
-    "Funding_ID": 146,
-    "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille 2018",
-    "Duration": "2018-04-27T13:15:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 152,
-    "Content_name": "Valtion erityisavustus esi- ja perusopetuksen tasa-arvoa edist\u00e4viin toimenpiteisiin 2018",
-    "Duration": "2018-04-25T13:15:00.000Z",
-    "Self_financing_percentage": 20,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
-    "Total_grant_size": 30228000
-  },
-  {
-    "Funding_ID": 153,
-    "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle 2018",
-    "Duration": "2018-05-08T10:00:00.000Z",
-    "Self_financing_percentage": 0
-  },
-  {
-    "Funding_ID": 158,
-    "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska \u00e5r 2018",
-    "Duration": "2018-06-08T13:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Total_grant_size": 80000
-  },
-  {
-    "Funding_ID": 160,
-    "Content_name": "Valtionavustus kotoutumisen edist\u00e4miseen 2018",
-    "Duration": "2018-05-25T13:15:00.000Z",
-    "Self_financing_percentage": 10,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
-    "Total_grant_size": 8153993
-  },
-  {
-    "Funding_ID": 164,
-    "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle 2018 (2. hakukierros)",
-    "Duration": "2018-10-10T10:00:00.000Z",
-    "Self_financing_percentage": 0,
-    "Total_grant_size": 16000
-  },
-  {
-    "Funding_ID": 165,
-    "Content_name": "EDUFI Finnish-Russian intensive courses for PhD students",
-    "Duration": "2018-10-31T14:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Total_grant_size": 30000
-  },
-  {
-    "Funding_ID": 176,
-    "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen 2018 ",
-    "Duration": "2018-11-05T14:00:00.000Z",
-    "Self_financing_percentage": 20,
-    "Funding_areas": "Perusopetus",
-    "Total_grant_size": 300000
-  },
-  {
-    "Funding_ID": 179,
-    "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen 2018",
-    "Duration": "2018-11-27T14:15:00.000Z",
-    "Self_financing_percentage": 25,
-    "Funding_areas": "Ammatillinen koulutus",
-    "Total_grant_size": 1000000
-  },
-  {
-    "Funding_ID": 181,
-    "Content_name": "Valtionavustus pilottihankkeden k\u00e4ynnist\u00e4miseksi toisen asteen opiskelijoiden oppimateriaali- ja ty\u00f6v\u00e4linekustannusten alentamiseksi",
-    "Duration": "2018-11-15T14:15:00.000Z",
-    "Self_financing_percentage": 10,
-    "Funding_areas": "Lukiokoulutus",
-    "Total_grant_size": 4000000
-  },
-  {
-    "Funding_ID": 234,
-    "Content_name": "Valtionavustus tiedeolympialaisten ja muiden tiedekilpailujen tukeen ja kehitt\u00e4miseen",
-    "Duration": "2019-06-12T13:15:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Lukiokoulutus",
-    "Total_grant_size": 400000
-  },
-  {
-    "Funding_ID": 239,
-    "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle  2019",
-    "Duration": "2019-10-07T20:59:00.000Z",
-    "Self_financing_percentage": 0,
-    "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
-    "Total_grant_size": 30000
-  }
+    {
+        "Funding_ID": 4,
+        "Content_name": "Vientiteollisuusalojen ammatillisen koulutuksen kehitt\u00e4minen",
+        "Duration": "2015-12",
+        "Self_financing_percentage": 25
+    },
+    {
+        "Funding_ID": 11,
+        "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2016 ",
+        "Duration": "2016-02",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus"
+    },
+    {
+        "Funding_ID": 25,
+        "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille",
+        "Duration": "2016-04",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Kristillisten koulujen kerhotoiminta"
+    },
+    {
+        "Funding_ID": 28,
+        "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen esi- ja perusopetuksessa sek\u00e4 lukiokoulutuksessa ",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 29,
+        "Content_name": "Esi- ja perusopetuksen tietoverkkojen hankinnat",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 33,
+        "Content_name": "Valtakunnallisten n\u00e4ytt\u00f6tutkintoaineistojen kehitt\u00e4minen - painopiste 1",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 10
+    },
+    {
+        "Funding_ID": 34,
+        "Content_name": "Alkuper\u00e4iskarjan hoidon tuki",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 25
+    },
+    {
+        "Funding_ID": 35,
+        "Content_name": "Valtakunnallisten n\u00e4ytt\u00f6tutkintoaineistojen kehitt\u00e4minen - painopiste 2",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 25
+    },
+    {
+        "Funding_ID": 37,
+        "Content_name": "Ammatillisen koulutuksen kansainv\u00e4listyminen",
+        "Duration": "2016-06",
+        "Self_financing_percentage": 25
+    },
+    {
+        "Funding_ID": 40,
+        "Content_name": "Varhaiskasvatuksen kehitt\u00e4minen",
+        "Duration": "2016-06",
+        "Self_financing_percentage": 30
+    },
+    {
+        "Funding_ID": 41,
+        "Content_name": "Valtionavustukset kielikylpytoiminnan laajentamiseen",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 42,
+        "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansainv\u00e4listymisen kehitt\u00e4mishankkeet",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 43,
+        "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansalliset kehitt\u00e4mishankkeet",
+        "Duration": "2016-05",
+        "Self_financing_percentage": 5
+    },
+    {
+        "Funding_ID": 47,
+        "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska",
+        "Duration": "2016-08",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 48,
+        "Content_name": "Osaamisperusteisuuden ja asiakasl\u00e4ht\u00f6isyyden edist\u00e4minen",
+        "Duration": "2016-09",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 50,
+        "Content_name": "Vapaan sivistysty\u00f6n ylim\u00e4\u00e4r\u00e4iset avustukset",
+        "Duration": "2016-09",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Kes\u00e4yliopisto"
+    },
+    {
+        "Funding_ID": 51,
+        "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen",
+        "Duration": "2016-09",
+        "Self_financing_percentage": 25
+    },
+    {
+        "Funding_ID": 53,
+        "Content_name": "Urheilijoiden ammatillisen peruskoulutuksen j\u00e4rjest\u00e4minen",
+        "Duration": "2016-10",
+        "Self_financing_percentage": 10
+    },
+    {
+        "Funding_ID": 56,
+        "Content_name": "Ammatillisen koulutuksen ty\u00f6el\u00e4m\u00e4l\u00e4ht\u00f6iset kokeilut",
+        "Duration": "2016-10",
+        "Self_financing_percentage": 10
+    },
+    {
+        "Funding_ID": 57,
+        "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 1: Tutoropettajien koulutus ja osaamisen kehitt\u00e4minen",
+        "Duration": "2016-11",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 58,
+        "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 2: Tutoropettajien toiminta",
+        "Duration": "2016-11",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 59,
+        "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 3: Kokeilu-, kehitt\u00e4mis- ja innovaatiotoiminta",
+        "Duration": "2016-11",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 61,
+        "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2017",
+        "Duration": "2017-01",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Aikuiskoulutus ja vapaa sivistysty\u00f6"
+    },
+    {
+        "Funding_ID": 62,
+        "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen",
+        "Duration": "2016-12",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 78,
+        "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 81,
+        "Content_name": "Alkuper\u00e4iskarjan geenipankkitoiminta",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 82,
+        "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen esi- ja perusopetuksessa sek\u00e4 lukiokoulutuksessa 2017",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 85,
+        "Content_name": "Ammatillisen koulutuksen kansainv\u00e4listyminen",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 87,
+        "Content_name": "Ammatillisen koulutuksen koulutusvientikokeilujen markkinointimateriaali",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 10,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 89,
+        "Content_name": "Innovatiivisten oppimisymp\u00e4rist\u00f6jen edist\u00e4minen varhaiskasvatuksessa 2017 ",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 90,
+        "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska",
+        "Duration": "2017-06",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 91,
+        "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansainv\u00e4listymisen kehitt\u00e4mishankkeet",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 92,
+        "Content_name": "Yleissivist\u00e4v\u00e4n koulutuksen kansainv\u00e4listyminen, kansalliset kehitt\u00e4mishankkeet",
+        "Duration": "2017-05",
+        "Self_financing_percentage": 5
+    },
+    {
+        "Funding_ID": 95,
+        "Content_name": "Valtionavustukset kielikylpytoiminnan laajentamiseen",
+        "Duration": "2017-06",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 99,
+        "Content_name": "Finnish-Russian Student and Teacher Mobility Programme (FIRST+) 2017 call",
+        "Duration": "2017-09",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 100,
+        "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Koulutuksen j\u00e4rjest\u00e4misen ydinprosessien hallinta",
+        "Duration": "2017-11",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 101,
+        "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Muutosjohtaminen",
+        "Duration": "2017-11",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 103,
+        "Content_name": "Osaamisperusteisuuden edist\u00e4minen ja jakaminen - Yhteis\u00f6llisyys, hyvinvointi ja osallisuuden edist\u00e4minen",
+        "Duration": "2017-11",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 106,
+        "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen",
+        "Duration": "2017-09",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus"
+    },
+    {
+        "Funding_ID": 110,
+        "Content_name": "Valtionavustukset kristillisten koulujen toimintaan",
+        "Duration": "2017-09",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 111,
+        "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 A: Tutoropettajien toiminta ja kouluttaminen 2017",
+        "Duration": "2017-10",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 113,
+        "Content_name": "K\u00e4rkihanke 1 - hakuryhm\u00e4 B: Tutoropettajatoiminnan kehitt\u00e4minen alueellisesti 2017",
+        "Duration": "2017-10",
+        "Self_financing_percentage": 5
+    },
+    {
+        "Funding_ID": 114,
+        "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle",
+        "Duration": "2017-10",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 115,
+        "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen 2017",
+        "Duration": "2017-11",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 119,
+        "Content_name": "Reformil\u00e4hettil\u00e4\u00e4t",
+        "Duration": "2017-12",
+        "Self_financing_percentage": 5
+    },
+    {
+        "Funding_ID": 123,
+        "Content_name": "Valtionavustukset perusopetuksen ja lukiokoulutuksen kansainv\u00e4listymiseen",
+        "Duration": "2017-10",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 127,
+        "Content_name": "Opetustoimen ja varhaiskasvatuksen henkil\u00f6st\u00f6koulutus 2018, aluehallintovirastot ",
+        "Duration": "2018-01",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus"
+    },
+    {
+        "Funding_ID": 133,
+        "Content_name": "HEI ICI Programme 2016-2020 ",
+        "Duration": "2018-01",
+        "Self_financing_percentage": 20
+    },
+    {
+        "Funding_ID": 140,
+        "Content_name": "Valtionavustukset kielten opiskelun varhentamiseen, kehitt\u00e4miseen ja lis\u00e4\u00e4miseen - Hakuryhm\u00e4 A",
+        "Duration": "2018-03",
+        "Self_financing_percentage": 5
+    },
+    {
+        "Funding_ID": 143,
+        "Content_name": "Perusopetuksen innovaatio- ja kokeiluhaku 2018",
+        "Duration": "2018-04",
+        "Self_financing_percentage": 10,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
+        "Total_grant_size": 6000000
+    },
+    {
+        "Funding_ID": 146,
+        "Content_name": "Valtionavustukset j\u00e4rjest\u00f6ille 2018",
+        "Duration": "2018-04",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 152,
+        "Content_name": "Valtion erityisavustus esi- ja perusopetuksen tasa-arvoa edist\u00e4viin toimenpiteisiin 2018",
+        "Duration": "2018-04",
+        "Self_financing_percentage": 20,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
+        "Total_grant_size": 30228000
+    },
+    {
+        "Funding_ID": 153,
+        "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle 2018",
+        "Duration": "2018-05",
+        "Self_financing_percentage": 0
+    },
+    {
+        "Funding_ID": 158,
+        "Content_name": "Statsunderst\u00f6d f\u00f6r produktion av l\u00e4romedel med liten spridning p\u00e5 svenska \u00e5r 2018",
+        "Duration": "2018-06",
+        "Self_financing_percentage": 0,
+        "Total_grant_size": 80000
+    },
+    {
+        "Funding_ID": 160,
+        "Content_name": "Valtionavustus kotoutumisen edist\u00e4miseen 2018",
+        "Duration": "2018-05",
+        "Self_financing_percentage": 10,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
+        "Total_grant_size": 8153993
+    },
+    {
+        "Funding_ID": 164,
+        "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle 2018 (2. hakukierros)",
+        "Duration": "2018-10",
+        "Self_financing_percentage": 0,
+        "Total_grant_size": 16000
+    },
+    {
+        "Funding_ID": 165,
+        "Content_name": "EDUFI Finnish-Russian intensive courses for PhD students",
+        "Duration": "2018-10",
+        "Self_financing_percentage": 0,
+        "Total_grant_size": 30000
+    },
+    {
+        "Funding_ID": 176,
+        "Content_name": "K\u00e4rkihanke 6 - Joustavan perusopetuksen (JOPO) toiminnan kehitt\u00e4minen 2018 ",
+        "Duration": "2018-11",
+        "Self_financing_percentage": 20,
+        "Funding_areas": "Perusopetus",
+        "Total_grant_size": 300000
+    },
+    {
+        "Funding_ID": 179,
+        "Content_name": "Ammatillisen koulutuksen laadun kehitt\u00e4minen 2018",
+        "Duration": "2018-11",
+        "Self_financing_percentage": 25,
+        "Funding_areas": "Ammatillinen koulutus",
+        "Total_grant_size": 1000000
+    },
+    {
+        "Funding_ID": 181,
+        "Content_name": "Valtionavustus pilottihankkeden k\u00e4ynnist\u00e4miseksi toisen asteen opiskelijoiden oppimateriaali- ja ty\u00f6v\u00e4linekustannusten alentamiseksi",
+        "Duration": "2018-11",
+        "Self_financing_percentage": 10,
+        "Funding_areas": "Lukiokoulutus",
+        "Total_grant_size": 4000000
+    },
+    {
+        "Funding_ID": 234,
+        "Content_name": "Valtionavustus tiedeolympialaisten ja muiden tiedekilpailujen tukeen ja kehitt\u00e4miseen",
+        "Duration": "2019-06",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Lukiokoulutus",
+        "Total_grant_size": 400000
+    },
+    {
+        "Funding_ID": 239,
+        "Content_name": "Valmistelevat vierailut ERASMUS + yleissivist\u00e4v\u00e4lle koulutukselle  2019",
+        "Duration": "2019-10",
+        "Self_financing_percentage": 0,
+        "Funding_areas": "Yleissivist\u00e4v\u00e4 koulutus, ml. varhaiskasvatus",
+        "Total_grant_size": 30000
+    }
 ]
