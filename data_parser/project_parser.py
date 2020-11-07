@@ -33,7 +33,7 @@ def LCSubStr(X, Y, m, n):
     return result
 
 
-# can be used to find the city of the organization
+# NEURAL NETWORK
 def find_city(organization_name):
     l = len(organization_name)
 
