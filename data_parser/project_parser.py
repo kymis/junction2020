@@ -27,7 +27,7 @@ for e in data["loppuselvitys"]:
             d["equipment-costs"] = obj["value"]
         elif obj["key"] == "material-costs-row.amount":
             d["material-costs"] = obj["value"]
-        elif obj["key"] == "coodination-costs-row.amount":
+        elif obj["key"] == "coordination-costs-row.amount":
             d["coordination-costs"] = obj["value"]
         elif obj["key"] == "rent-costs-row.amount":
             d["rent-costs"] = obj["value"]
