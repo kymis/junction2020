@@ -4,7 +4,7 @@ kunnat = []
 
 
 def create_city_list():
-    file = open("../Data/kunnat.csv")
+    file = open("Data/kunnat.csv")
     all_lines = file.readlines()
     for line in all_lines:
         city = line.split(",")[0]
@@ -40,8 +40,9 @@ def find_city(organization_name):
     for city in kunnat:
         n = len(city)
         or_name_len = len(organization_name.split(" ")[0])
+        print(or_name_len)
         if (n + 3) > or_name_len:
-            longest_sub = LCSubStr(organization_name, city, l, n)
+            longest_sub = LCSubStr(organization_name.split(" ")[0], city, l, n)
             if longest_sub >= n - 1:
                 return city
 
@@ -58,14 +59,9 @@ def parse_projects():
         # basic details
         d = {
             "Project_ID": e["haku_id"],
+            "Project_name": e["project_name"],
             "Organization_name": e["organization_name"]
         }
-        
-        if e["project_name"] == "":
-            d["Project_name"] = e["organization_name"]
-        else:
-           d["Project_name"] = e["project_name"]
-
         # find the city for the organization
         city = find_city(e["organization_name"])
         if city:
