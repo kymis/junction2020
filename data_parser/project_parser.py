@@ -33,7 +33,7 @@ def LCSubStr(X, Y, m, n):
     return result
 
 
-# can be used to find the city of the organization
+# NEURAL NETWORK
 def find_city(organization_name):
     l = len(organization_name)
 
@@ -65,9 +65,9 @@ def parse_projects():
         # find the city for the organization
         city = find_city(e["organization_name"])
         if city:
-            d["C    ity"] = city
+            d["City"] = city
         else:
-            d["City"] = "NO CITY FOUND"
+            d["City"] = "-"
 
         v = e["loppuselvitys_answers"]["value"]
         for obj in v:
