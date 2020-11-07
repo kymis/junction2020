@@ -1,5 +1,51 @@
 import json
 
+kunnat = []
+
+
+def create_city_list():
+    file = open("Data/kunnat.csv")
+    all_lines = file.readlines()
+    for line in all_lines:
+        city = line.split(",")[0]
+        kunnat.append(city)
+
+
+# fill the list
+create_city_list()
+
+
+# longest common substring
+def LCSubStr(X, Y, m, n):
+    LCSuff = [[0 for k in range(n+1)] for l in range(m+1)]
+
+    result = 0
+
+    for i in range(m + 1):
+        for j in range(n + 1):
+            if (i == 0 or j == 0):
+                LCSuff[i][j] = 0
+            elif (X[i-1] == Y[j-1]):
+                LCSuff[i][j] = LCSuff[i-1][j-1] + 1
+                result = max(result, LCSuff[i][j])
+            else:
+                LCSuff[i][j] = 0
+    return result
+
+
+# can be used to find the city of the organization
+def find_city(organization_name):
+    l = len(organization_name)
+
+    for city in kunnat:
+        n = len(city)
+        or_name_len = len(organization_name.split(" ")[0])
+        print(or_name_len)
+        if (n + 3) > or_name_len:
+            longest_sub = LCSubStr(organization_name, city, l, n)
+            if longest_sub >= n - 1:
+                return city
+
 
 def parse_projects():
     file = open('../Data/data.json')
@@ -16,6 +62,13 @@ def parse_projects():
             "Project_name": e["project_name"],
             "Organization_name": e["organization_name"]
         }
+        # find the city for the organization
+        city = find_city(e["organization_name"])
+        if city:
+            d["City"] = city
+        else:
+            d["City"] = "NO CITY FOUND"
+
         v = e["loppuselvitys_answers"]["value"]
         for obj in v:
             # costs
@@ -59,3 +112,6 @@ def parse_projects():
 
     final_json = json.dumps(final_data, indent=4)
     return final_json
+
+
+data = parse_projects()
