@@ -69,7 +69,7 @@ def parse_projects():
         # find the city for the organization
         city = find_city(e["organization_name"])
         if city:
-            d["C    ity"] = city
+            d["City"] = city
         else:
             d["City"] = "NO CITY FOUND"
 
