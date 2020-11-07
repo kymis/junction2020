@@ -4,7 +4,7 @@ kunnat = []
 
 
 def create_city_list():
-    file = open("Data/kunnat.csv")
+    file = open("../Data/kunnat.csv")
     all_lines = file.readlines()
     for line in all_lines:
         city = line.split(",")[0]
@@ -35,7 +35,7 @@ def LCSubStr(X, Y, m, n):
 
 # NEURAL NETWORK
 def find_city(organization_name):
-    l = len(organization_name)
+    l = len(organization_name.split(" ")[0])
 
     for city in kunnat:
         n = len(city)
