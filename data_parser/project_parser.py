@@ -40,7 +40,6 @@ def find_city(organization_name):
     for city in kunnat:
         n = len(city)
         or_name_len = len(organization_name.split(" ")[0])
-        print(or_name_len)
         if (n + 3) > or_name_len:
             longest_sub = LCSubStr(organization_name.split(" ")[0], city, l, n)
             if longest_sub >= n - 1:
