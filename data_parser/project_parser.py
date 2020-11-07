@@ -111,7 +111,7 @@ def parse_projects():
                         d["Project_outcomeType"] = dv["value"]
                     elif dv["key"] == "project-outcomes.project-outcomes-1.description":
                         d["Project_outcome"] = dv["value"]
-        #print(d)
+        print(d)
         final_data.append(d)
 
     final_json = json.dumps(final_data, indent=4)
