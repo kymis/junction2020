@@ -65,7 +65,7 @@ def parse_projects():
         # find the city for the organization
         city = find_city(e["organization_name"])
         if city:
-            d["City"] = city
+            d["C    ity"] = city
         else:
             d["City"] = "NO CITY FOUND"
 
@@ -88,8 +88,10 @@ def parse_projects():
                 d["rent-costs"] = obj["value"]
             elif obj["key"] == "service-purchase-costs-row.amount":
                 d["service-purchase-costs"] = obj["value"]
+            elif obj["key"] == "project-description":
+                d["project-goal"] = obj["value"][0]["value"][0]["value"]
 
-            # incomes
+                # incomes
             if obj["key"] == "project-incomes-row.amount":
                 d["project-incomes"] = obj["value"]
             elif obj["key"] == "other-public-financing-income-row.amount":
